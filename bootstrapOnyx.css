@@ -1,0 +1,38 @@
+h1 { 
+    font-family: rinstonia;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h2 {
+    font-family: rinstonia;
+    text-align: center;
+    padding-top:30px;
+}
+
+body {
+    background-color: #b78585;
+}
+
+p {
+    font-family: myriad pro;
+    text-align: center;
+    color: #fefefe;
+    padding-top: 10px;
+    
+}
+
+h6{
+    font-family: minion pro;
+    
+}
+
+.row {
+    padding-bottom: 40px;
+}
+
+.btn {
+        margin-left: 550px;
+        margin-bottom: 20px
+}
+
